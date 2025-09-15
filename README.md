@@ -25,6 +25,7 @@ O sistema possui **backend em Node.js/Express** e **frontend em Vue.js**, permit
 
 ## 📂 Estrutura do Projeto
 
+```
 projeto_tecnico/
 │── backend/          # API com rotas e controllers
 │   ├── src/
@@ -39,8 +40,8 @@ projeto_tecnico/
 │       ├── components/
 │       ├── styles/
 │       └── main.js
-│
 └── README.md
+```
 
 ---
 
