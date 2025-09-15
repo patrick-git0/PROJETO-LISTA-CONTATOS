@@ -71,19 +71,11 @@ A aplicação rodará em http://localhost:5173.
 - ✅ Cadastrar novo contato  
 - ✅ Listar contatos existentes  
 - ✅ Editar informações de um contato  
-- ✅ Remover contatos  
-
----
-
-📖 Próximos Passos
-
-- [ ] Conectar a API a um banco de dados (MongoDB ou PostgreSQL)  
-- [ ] Implementar autenticação de usuário  
-- [ ] Deploy do projeto (Render, Vercel ou Heroku)  
-
+- ✅ Remover contatos
+  
 ---
 
 👨‍💻 Autor
 
 Patrick Rocha Silva  
-🔗 GitHub: https://github.com/seu-usuario
+🔗 GitHub: https://github.com/patrick-git0
