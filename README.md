@@ -27,6 +27,7 @@ CSS
 Git & GitHub (controle de versão)
 
 📂 Estrutura do Projeto
+
 projeto_tecnico/
 │── backend/          # API com rotas e controllers
 │   ├── src/
@@ -44,8 +45,10 @@ projeto_tecnico/
 │
 └── README.md
 
+
 ⚙️ Como rodar o projeto
 🔹 Clonar o repositório
+
 git clone https://github.com/seu-usuario/PROJETO-LISTA-CONTATOS.git
 cd PROJETO-LISTA-CONTATOS
 
@@ -74,6 +77,14 @@ A aplicação rodará em http://localhost:5173.
 ✅ Editar informações de um contato
 
 ✅ Remover contatos
+
+📖 Próximos Passos
+
+ Conectar a API a um banco de dados (MongoDB ou PostgreSQL)
+
+ Implementar autenticação de usuário
+
+ Deploy do projeto (Render, Vercel ou Heroku)
 
 👨‍💻 Autor
 
