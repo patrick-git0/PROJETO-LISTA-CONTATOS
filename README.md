@@ -3,28 +3,23 @@
 Aplicação fullstack para gerenciamento de contatos, desenvolvida como projeto técnico.
 O sistema possui backend em Node.js/Express e frontend em Vue.js, permitindo cadastrar, listar, editar e excluir contatos.
 
+⸻
+
 🚀 Tecnologias
+
 🔹 Backend
-
-Node.js
-
-Express
-
-Nodemon (ambiente de desenvolvimento)
+	•	Node.js
+	•	Express
+	•	Nodemon (ambiente de desenvolvimento)
 
 🔹 Frontend
-
-Vue.js
-
-Vite
-
-JavaScript
-
-CSS
+	•	Vue.js
+	•	Vite
+	•	JavaScript
+	•	CSS
 
 🔹 Geral
-
-Git & GitHub (controle de versão)
+	•	Git & GitHub (controle de versão)
 
 📂 Estrutura do Projeto
 
@@ -69,22 +64,10 @@ npm run dev
 A aplicação rodará em http://localhost:5173.
 
 📌 Funcionalidades
-
-✅ Cadastrar novo contato
-
-✅ Listar contatos existentes
-
-✅ Editar informações de um contato
-
-✅ Remover contatos
-
-📖 Próximos Passos
-
- Conectar a API a um banco de dados (MongoDB ou PostgreSQL)
-
- Implementar autenticação de usuário
-
- Deploy do projeto (Render, Vercel ou Heroku)
+	•	✅ Cadastrar novo contato
+	•	✅ Listar contatos existentes
+	•	✅ Editar informações de um contato
+	•	✅ Remover contatos
 
 👨‍💻 Autor
 
